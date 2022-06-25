@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6a6b27fe-e06b-4d97-aea8-4a8fa6e35e0b": {
+      "ProjectGuid": "6a6b27fe-e06b-4d97-aea8-4a8fa6e35e0b",
+      "DisplayName": "GerenciadorDeTarefas",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
